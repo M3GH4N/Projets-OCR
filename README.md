@@ -20,4 +20,4 @@ Les dossiers Bureau, Documents et Téléchargements sont copiés sur le serveur 
 
 WindowstyleHidden.ps1 : Ce script permet de cacher et executer un autre script.
 
-CREATION_DOSSIER_EN_MASSE.ps1 : Ce script permet de créer et nommer des dossiers en masse issu d'un fichier "structure.txt".
+CREATION_DOSSIER_EN_MASSE.ps1 : Ce script permet de créer et nommer des dossiers en masse à partir d'un fichier "structure.txt" contenant un nom de dossier par ligne.
