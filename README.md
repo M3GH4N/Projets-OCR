@@ -19,3 +19,5 @@ Sauvegarde.ps1 : Ce script permet de sauvegarder le C:\Users de chaque utilisate
 Les dossiers Bureau, Documents et Téléchargements sont copiés sur le serveur dans le dossier E:\Sauvegardes\Users.
 
 WindowstyleHidden.ps1 : Ce script permet de cacher et executer un autre script.
+
+CREATION_DOSSIER_EN_MASSE.ps1 : Ce script permet de créer et nommer des dossiers en masse issu d'un fichier "structure.txt".
